@@ -1,6 +1,9 @@
 {
   "name": "@loyaltylion/jest-expect-typings",
-  "version": "23.6.0",
+  "version": "24.0.0",
   "main": "",
-  "typeScriptVersion": "2.9"
+  "typeScriptVersion": "3",
+  "dependencies": {
+    "@types/jest-diff": "^20.0.1"
+  }
 }
